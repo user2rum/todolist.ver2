@@ -55,7 +55,7 @@
                                     <fontDescription key="titleFontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="40"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="k2n-1S-X4t" kind="show" id="Q2L-Hg-UkU"/>
+                                    <segue destination="k2n-1S-X4t" kind="show" identifier="" id="Q2L-Hg-UkU"/>
                                 </connections>
                             </button>
                         </subviews>
